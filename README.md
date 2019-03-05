@@ -1,6 +1,6 @@
 # timeliste-for-excel
 //ENGLISH BELOW
-En enkel timeliste for Excel som holder orden på timer per måned med fleksitid, overtid, antall feriedager, sjukedager, avspasering og helligdager. Den kreve manuell utfylling, men er fin hvis du selv skal holde oversikt over timer.  
+En enkel timeliste for Excel som holder orden på timer per måned med fleksitid, overtid, antall feriedager, sjukedager, avspasering og helligdager. Den krever manuell utfylling, men er fin hvis du selv skal holde oversikt over timer.  
 
 Arket er beregnet for at du har fleksitid og jobber 5 dager i uka. Det er ikke egna til deltidsarbeid, med mindre du jobber kortere dager hver dag. Det er også lagt opp til at du i hovedsak avspaserer overtidstimer, og at du kan regne fleksitid mot overtid. 
 
