@@ -5,7 +5,10 @@ En enkel timeliste for Excel som holder orden på timer per måned med fleksitid
 Arket er beregnet for at du har fleksitid og jobber 5 dager i uka. Det er ikke egna til deltidsarbeid, med mindre du jobber kortere dager hver dag. Det er også lagt opp til at du i hovedsak avspaserer overtidstimer, og at du kan regne fleksitid mot overtid. 
 
 ----
-ENGLISH: A template for filling in works hours, made in Norwegian. You can probably use it in other languages as well, but that requires a translation. 
+
+ENGLISH:
+A template for filling in works hours, made in Norwegian. You can probably use it in other languages as well, but that requires a translation. 
+
 ----
 
 BRUK:
